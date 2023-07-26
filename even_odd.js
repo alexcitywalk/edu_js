@@ -1,4 +1,4 @@
-let n = 10;
+let number = 10;
 if (num % 2 === 0) {
   console.log(num + " is even.");
 } else {
