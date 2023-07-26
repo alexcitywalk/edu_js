@@ -1,6 +1,6 @@
 let number = 10;
-if (num % 2 === 0) {
-  console.log(num + " is even.");
+if (number % 2 === 0) {
+  console.log(number + " is even.");
 } else {
-  console.log(num + " is odd.");
+  console.log(number + " is odd.");
 }
